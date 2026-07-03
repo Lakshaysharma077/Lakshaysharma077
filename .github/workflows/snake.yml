@@ -9,16 +9,18 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Lakshaysharma077
           outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
