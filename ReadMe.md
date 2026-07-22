@@ -69,8 +69,8 @@ Computer Science & Engineering student focused on building high-throughput web e
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshaysharma077&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/github-contribution-grid-snake-dark.svg" alt="Commit Snake" />
+<p align="center" style="margin-top: 15px;">
+  <img width="100%" src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
