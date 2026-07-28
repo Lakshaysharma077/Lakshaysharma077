@@ -1,6 +1,6 @@
 <h1 align="center">Lakshay Sharma</h1>
 <p align="center">
-  <b>Full Stack Engineer • AI Systems Architecture • Java Developer</b>
+  <b>Full Stack Engineer • AI Systems Architecture</b>
 </p>
 
 <p align="center">
