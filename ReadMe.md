@@ -1,7 +1,7 @@
 <h1 align="center">Lakshay Sharma</h1>
 
 <p align="center">
-  <b>Full Stack Developer • AI Engineer • Java Developer</b>
+  <b>Full Stack Developer </b>
 </p>
 
 <p align="center">
@@ -321,8 +321,8 @@ src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+<a href="https://leetcode.com/u/lakshayshrma/">
+<img src="https://leetcard.jacoblin.cool/lakshayshrma?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
 </p>
