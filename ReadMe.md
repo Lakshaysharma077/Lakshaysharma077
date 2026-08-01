@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Lakshay Sharma</h1>
+<!-- =============================================== -->
+<!--               HERO SECTION                      -->
+<!-- =============================================== -->
+
+<h1 align="center">
+Hi 👋 I'm Lakshay Sharma
+</h1>
 
 <h3 align="center">
-Full Stack Developer 
+Full Stack Developer • AI Engineer • Backend Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Production+Ready+Applications;Full+Stack+Developer;Java+%7C+React+%7C+Node.js;AI+%26+Backend+Engineering;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production+Ready+Applications;AI+%7C+Java+%7C+React+%7C+Node.js;Backend+Engineering;System+Design+Learner;Always+Learning+Something+New"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Lakshaysharma077&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://github.com/Lakshaysharma077">
+<img src="https://img.shields.io/github/followers/Lakshaysharma077?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Lakshaysharma077&style=for-the-badge"/>
 
 </p>
 
@@ -18,152 +30,215 @@ Full Stack Developer
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Student
+```java
+class Lakshay {
 
-💻 Passionate about building scalable Full Stack applications.
+    String role = "Full Stack Developer";
 
-🤖 Interested in Artificial Intelligence, Backend Engineering and System Design.
+    String[] languages = {
+        "Java",
+        "JavaScript"
+    };
 
-🚀 Currently building production-ready AI products and modern web applications.
+    String[] frontend = {
+        "React",
+        "Tailwind CSS",
+        "HTML",
+        "CSS"
+    };
 
-🌱 Constantly learning better architecture, clean code and distributed systems.
+    String[] backend = {
+        "Node.js",
+        "Express"
+    };
+
+    String database = "MongoDB";
+
+    String currentFocus =
+        "Building scalable AI-powered web applications";
+
+    String learning =
+        "System Design • Docker • Kubernetes • AWS";
+}
+```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 What I'm Working On
 
-## 👨‍💻 Languages
+- 🤖 AI Powered Student Assistant
 
-<p>
+- 🌐 Production Ready Full Stack Applications
 
-<img src="https://skillicons.dev/icons?i=java,js"/>
+- ⚙ Backend APIs using Node.js
+
+- 💬 Real Time Communication using Socket.IO
+
+- 🧠 AI Integrations using Gemini & OpenAI APIs
+
+- 📚 DSA using Java
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,git,github,tailwind,html,css,vscode,postman"/>
 
 </p>
 
 ---
 
-## 🎨 Frontend
+# ⚡ Architecture
 
-<p>
+```
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+              Frontend
 
-</p>
+      React + Tailwind CSS
 
----
+               │
 
-## ⚙ Backend
+               ▼
 
-<p>
+        REST API Layer
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+               │
 
-</p>
+               ▼
 
----
+      Node.js + Express.js
 
-## 🗄 Database
+               │
 
-<p>
+               ▼
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+      MongoDB Database
 
-</p>
+               │
 
----
+               ▼
 
-## 🛠 Tools
+      AI Services Layer
 
-<p>
+       Gemini / OpenAI APIs
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-
-</p>
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🤖 Student AI Assistant
 
-> AI powered educational platform with intelligent note generation,
-> PDF summarization, roadmap creation,
-> chatbot integration and personalized learning experience.
+An AI powered educational platform capable of
 
-### Tech
+- PDF Summarization
 
-- React
-- Node.js
-- Express
-- Gemini API
-- MongoDB
+- AI Chat
+
+- Notes Generation
+
+- Roadmap Creation
+
+- Smart Learning
+
+### Stack
+
+React
+
+Node.js
+
+MongoDB
+
+Gemini API
 
 ---
 
 ## 🌐 Ksons Exteriors
 
-Commercial business website developed with modern UI,
-responsive layouts,
-SEO optimization,
-authentication,
-booking system and scalable backend architecture.
+Commercial Business Website
 
-### Tech
+Features
 
-- Next.js
-- React
-- Node.js
-- MongoDB
-- Tailwind CSS
+- Authentication
+
+- Booking
+
+- Contact System
+
+- Admin Dashboard
+
+- SEO Optimized
+
+- Responsive UI
+
+### Stack
+
+Next.js
+
+Node.js
+
+MongoDB
+
+Tailwind CSS
 
 ---
 
-## 💬 Real Time Chat Application
+## 💬 Real Time Chat App
 
-Real-time messaging platform using Socket.IO with secure authentication,
-responsive interface and instant message synchronization.
+Features
 
-### Tech
-
-- React
-- Node
 - Socket.IO
-- MongoDB
+
+- JWT Authentication
+
+- Online Users
+
+- Instant Messaging
+
+- Responsive Design
 
 ---
 
 ## 📝 Notes App
 
-Secure notes application supporting authentication,
-JWT authorization,
-REST APIs and cloud database.
+Features
 
-### Tech
+- JWT Auth
 
-- React
-- Node.js
-- Express
+- CRUD APIs
+
+- Secure Backend
+
 - MongoDB
 
----# 📊 GitHub Analytics
+- REST Architecture
+
+---<!-- =============================================== -->
+<!--            GITHUB DASHBOARD                     -->
+<!-- =============================================== -->
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Lakshaysharma077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Lakshaysharma077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshaysharma077&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img
+<img width="80%"
 src="https://streak-stats.demolab.com?user=Lakshaysharma077&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -174,8 +249,7 @@ src="https://streak-stats.demolab.com?user=Lakshaysharma077&theme=tokyonight&hid
 
 <p align="center">
 
-<img
-width="100%"
+<img width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshaysharma077&theme=tokyo-night&hide_border=true"/>
 
 </p>
@@ -188,12 +262,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshaysharm
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
+<source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/github-contribution-grid-snake-dark.svg"/>
 
-<source
-media="(prefers-color-scheme: light)"
+<source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/github-contribution-grid-snake.svg"/>
 
 <img
@@ -206,94 +278,75 @@ src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Lakshaysharma077&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img width="100%"
+src="https://github-profile-trophy.vercel.app/?username=Lakshaysharma077&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📅 Contribution Calendar
+# 📋 Profile Summary
 
 <p align="center">
 
-<img
+<img width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshaysharma077&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ⚡ Development Metrics
+# 📊 Coding Metrics
 
 <p align="center">
 
-<img
+<img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshaysharma077&theme=tokyonight"/>
 
-<br><br>
-
-<img
+<img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshaysharma077&theme=tokyonight"/>
 
 </p>
 
----
-
-# ⏱ Productivity
+<br>
 
 <p align="center">
 
-<img
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshaysharma077&theme=tokyonight"/>
+
+<img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshaysharma077&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
----# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lakshaysharma-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lakshaysharma866@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Lakshaysharma077">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
-# 💻 Coding Profiles
+# ⚡ GitHub Highlights
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+| Metric | Status |
+|--------|--------|
+| 💻 Primary Language | Java |
+| 🌐 Full Stack | MERN |
+| 🤖 AI Integration | Gemini / OpenAI |
+| 📦 Backend | Node.js + Express |
+| 🗄 Database | MongoDB |
+| ⚡ APIs | REST + JWT |
+| 🧠 Learning | System Design |
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://takeuforward.org/">
-<img src="https://img.shields.io/badge/DSA-A8E63E?style=for-the-badge"/>
-</a>
+---<!-- =============================================== -->
+<!--              FEATURED PROJECTS                  -->
+<!-- =============================================== -->
 
-</p>
-
----
-
-# ⚙ Skills
+# 🚀 Featured Projects
 
 <table>
 
@@ -301,81 +354,36 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <td width="50%">
 
-### 💻 Programming
+## 🤖 Student AI Assistant
 
-- Java
-- JavaScript
-- Data Structures & Algorithms
-- OOP
-- REST APIs
+AI-powered learning platform that helps students study faster using LLMs.
+
+### ✨ Features
+
+- 📄 PDF Summarization
+- 🤖 AI Chat
+- 📝 Notes Generator
+- 🛣 Learning Roadmaps
+- 🎯 Personalized Study
+- 📚 Quiz Generator
+
+### ⚙ Tech
+
+`React`
+
+`Node.js`
+
+`MongoDB`
+
+`Gemini API`
+
+`JWT`
 
 </td>
 
 <td width="50%">
 
-### 🌐 Frontend
-
-- React
-- Tailwind CSS
-- HTML5
-- CSS3
-- Responsive Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### ⚙ Backend
-
-- Node.js
-- Express.js
-- JWT Authentication
-- REST API Development
-- Socket.IO
-
-</td>
-
-<td>
-
-### 🗄 Database
-
-- MongoDB
-- Mongoose
-- CRUD Operations
-- Aggregation
-- Schema Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🤖 AI
-
-- Prompt Engineering
-- Gemini API
-- OpenAI API
-- AI Integrations
-- LLM Workflows
-
-</td>
-
-<td>
-
-### 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="180"/>
 
 </td>
 
@@ -385,91 +393,490 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 ---
 
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Ksons Exteriors
+
+Commercial website developed for a real client.
+
+### ✨ Features
+
+- Authentication
+- Booking System
+- Contact Forms
+- Admin Dashboard
+- SEO Optimization
+- Responsive Design
+
+### ⚙ Tech
+
+`Next.js`
+
+`Node.js`
+
+`MongoDB`
+
+`Tailwind`
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="180"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💬 Real Time Chat Application
+
+Modern messaging platform built using Socket.IO.
+
+### ✨ Features
+
+- JWT Authentication
+
+- Instant Messaging
+
+- Online Users
+
+- Typing Indicator
+
+- Socket Rooms
+
+- Responsive UI
+
+### ⚙ Tech
+
+`React`
+
+`Node.js`
+
+`Socket.IO`
+
+`MongoDB`
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="180"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📝 Notes App
+
+Secure cloud note application.
+
+### ✨ Features
+
+- Login
+
+- JWT Auth
+
+- CRUD APIs
+
+- Search
+
+- Categories
+
+- Cloud Storage
+
+### ⚙ Tech
+
+`React`
+
+`Express`
+
+`MongoDB`
+
+`JWT`
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="180"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Tech Ecosystem
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
 # 📚 Currently Learning
 
-- Advanced Backend Engineering
-- Microservices Architecture
-- System Design
-- AI Agents
-- Docker
-- Kubernetes
-- CI/CD
-- AWS
+```text
+✔ Advanced Java
+
+✔ System Design
+
+✔ Microservices
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ AWS
+
+✔ CI/CD
+
+✔ AI Agents
+
+✔ RAG Pipelines
+```
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Master Backend Engineering
-- ✅ Build Production AI SaaS
-- ✅ Learn System Design
-- ✅ Contribute to Open Source
-- ✅ Crack Top Product-Based Companies
+- ✅ 500+ DSA Problems
+- ✅ Strong Backend Engineering
+- ✅ Production AI SaaS
+- ✅ Open Source Contributions
+- ✅ System Design
+- ✅ Crack Product-Based Company
 
 ---
 
-# 💡 Quote
+# 📈 Coding Philosophy
 
-> **"First make it work, then make it right, then make it fast."**
+```java
+while(alive){
 
----
-# 📊 Weekly Development Breakdown
+    learn();
 
-<!--START_SECTION:waka-->
+    build();
 
-```text
-Java          ████████████░░░░░░░   48%
-JavaScript    ████████░░░░░░░░░░   29%
-React         ██████░░░░░░░░░░░░   14%
-MongoDB       ███░░░░░░░░░░░░░░░    5%
-Others        ██░░░░░░░░░░░░░░░░    4%
+    improve();
+
+    repeat();
+
+}
 ```
 
-<!--END_SECTION:waka-->
+---<!-- =============================================== -->
+<!--          CODING PROFILES & ACHIEVEMENTS         -->
+<!-- =============================================== -->
 
-> **Note:** Ye section tabhi automatically update hoga jab tum WakaTime setup karoge. Warna isse hata sakte ho.
-
----
-
-# 🚀 Open Source
-
-I enjoy contributing to open-source projects, exploring new technologies, and building scalable software solutions.
-
-If you have an interesting project or idea, feel free to connect.
-
----
-
-# ⭐ If you like my work
+# 🏅 Coding Profiles
 
 <p align="center">
 
-<a href="https://github.com/Lakshaysharma077?tab=repositories">
-<img src="https://img.shields.io/badge/Check%20Out-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-210%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lakshaysharma077">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 📬 Reach Me
+# 📊 DSA Journey
 
-- 📧 **Email:** lakshaysharma866@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/lakshaysharma-dev
-- 💻 **GitHub:** https://github.com/Lakshaysharma077
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------|
+| 💛 LeetCode | **210+ Problems Solved** |
+| ☕ Language | **Java** |
+| 🧠 Focus | Trees • Graphs • DP • Backtracking • Binary Search |
+| 📚 CS Fundamentals | OOP • DBMS • OS • CN |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Lakshaysharma077">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshaysharma-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lakshaysharma866@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Looking For
+
+- Backend Development
+- Full Stack Development
+- AI Engineering
+- Software Engineering Internships
+- Open Source Collaboration
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy building full-stack applications from scratch.
+- 🤖 Exploring AI integrations and LLM-powered products.
+- 📚 Consistently improving my DSA and system design skills.
+- 🚀 I like shipping real projects instead of tutorial clones.
+
+---
+
+# 📈 Current Focus
+
+```text
+Backend Engineering        ██████████████░░░░ 80%
+
+Java + DSA                ███████████████░░ 85%
+
+React                     ████████████░░░░░ 70%
+
+Node.js                   █████████████░░░░ 75%
+
+System Design             ███████░░░░░░░░░░ 40%
+
+AI Engineering            ███████████░░░░░░ 65%
+```
+
+---
+
+# 💬 Favorite Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+
+— Harold Abelson
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</p><!-- =============================================== -->
+<!--            LIVE CODING DASHBOARD                -->
+<!-- =============================================== -->
+
+# ⚡ Coding Dashboard
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshaysharma077&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshaysharma077&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🛣 Learning Roadmap
+
+```text
+
+                 JAVA
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+      OOPS                  DSA
+        │                     │
+        └──────────┬──────────┘
+                   │
+                Backend
+                   │
+      Node.js ─ Express ─ MongoDB
+                   │
+              Authentication
+                   │
+                 REST APIs
+                   │
+              System Design
+                   │
+             Docker / AWS
+                   │
+              AI Integrations
+                   │
+            Production Systems
+
+```
+
+---
+
+# 🚀 Tech Snapshot
+
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | Java, JavaScript |
+| 🎨 Frontend | React, HTML, CSS, Tailwind |
+| ⚙ Backend | Node.js, Express |
+| 🗄 Database | MongoDB |
+| 🔐 Authentication | JWT |
+| 🔧 Tools | Git, GitHub, Postman, VS Code |
+| 🤖 AI | Gemini API, OpenAI API |
+
+---
+
+# 📌 Highlights
+
+✔ 210+ LeetCode Problems Solved
+
+✔ Strong Java + DSA
+
+✔ Real Client Projects
+
+✔ MERN Stack Development
+
+✔ AI Integrated Applications
+
+✔ REST API Development
+
+✔ Authentication & Authorization
+
+✔ Socket.IO Applications
+
+---
+
+# 🎯 2026 Roadmap
+
+✅ 300+ LeetCode
+
+✅ Advanced Backend
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ AWS
+
+✅ CI/CD
+
+✅ System Design
+
+✅ Open Source Contributions
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Lakshaysharma077">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshaysharma-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lakshaysharma866@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
 
 </p>
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile ⭐
+
 </h3>
 
 <p align="center">
-Building scalable software • Exploring AI • Always learning 🚀
+
+Building software that solves real problems.
+
 </p>
