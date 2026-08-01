@@ -329,7 +329,7 @@ src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/lakshayshrma/">
 <img src="https://img.shields.io/badge/LeetCode-210%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
