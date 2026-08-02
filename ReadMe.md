@@ -363,10 +363,7 @@ src="https://raw.githubusercontent.com/Lakshaysharma077/Lakshaysharma077/output/
 
 ## 💡 Philosophy
 
-> **"Build projects that solve real problems.  
-Write clean code.  
-Keep learning.  
-Stay consistent."**
+> **"Make it work then make it clean"**
 
 ---
 
