@@ -42,7 +42,7 @@ public class Lakshay {
 - 🎓 3rd Year Computer Science Student
 - 💻 Passionate about Full Stack Development
 - 🤖 Exploring AI-powered applications
-- 🧠 Solved **210+ LeetCode** problems in Java
+- 🧠 Solved **230+ LeetCode** problems in Java
 - 🚀 Currently building scalable production-ready web applications
 
 ---
