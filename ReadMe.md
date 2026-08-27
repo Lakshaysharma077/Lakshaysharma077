@@ -31,7 +31,7 @@ public class Lakshay {
 
     String language = "Java";
 
-    int leetcodeSolved = 210;
+    int leetcodeSolved = 239;
 
     String currentFocus =
         "Backend Engineering & AI Applications";
